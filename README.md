@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-**ttcogsv/ttcogsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Infrastructure As Code using Azure Bicep
 - 🌱 I’m currently learning Next.js and TypeScript
 - 👯 I’m looking to collaborate on Nothing
